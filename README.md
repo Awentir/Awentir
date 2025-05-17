@@ -1,6 +1,6 @@
 <hr>
 -> 👋 Hi, I’m @Awentir, my name is Thomas Corduan<hr>
--> 📖 Im 16, so im a student <hr>
+-> 📖 Im 17 <hr>
 -> 👀 I’m interested in video games, new technologies, coding and music<hr>
 -> 🌱 I’m currently learning Python and HTML 5/CSS/JavaScript<hr>
 -> 💞️ I’m looking to collaborate if someone have an idea or want to teach me too :D<hr>
